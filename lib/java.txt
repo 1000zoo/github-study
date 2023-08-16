@@ -1,6 +1,6 @@
 new java file
 
 1. class1-jsh0816vi
-2. class2
+2. class2 => class jw{}
 3. method1
 4. method2
